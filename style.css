@@ -1,0 +1,39 @@
+.sariq {
+  color: #f6d651;
+  text-align: center;
+}
+.p11 {
+  text-align: center;
+  color: white;
+}
+.yashil {
+  color: #709838;
+}
+.div1 {
+  background-color: #0a0b24;
+}
+th {
+  border: 1px solid yellow;
+  padding: 10px;
+}
+.oq {
+  color: white;
+}
+table {
+  width: 100%;
+}
+.p13 {
+  color: white;
+  text-align: center;
+}
+.mm1 {
+  width: 100%;
+}
+button {
+  width: 200px;
+  background-color: yellow;
+  padding: 10px;
+  border-radius: 20px;
+  margin: 0 auto;
+  display: block;
+}
